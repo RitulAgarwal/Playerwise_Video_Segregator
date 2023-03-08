@@ -1,0 +1,17 @@
+Metadata-Version: 2.1
+Name: keras-segmentation
+Version: 0.3.0
+Summary: Image Segmentation toolkit for keras
+Home-page: https://github.com/divamgupta/image-segmentation-keras
+Author: Divam Gupta
+Author-email: divamgupta@gmail.com
+License: GPLv3
+Platform: any
+Provides-Extra: cntk
+Provides-Extra: tensorflow
+Provides-Extra: tests-default
+Provides-Extra: theano
+License-File: LICENSE
+
+UNKNOWN
+
